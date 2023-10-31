@@ -1,2 +1,4 @@
-<exGCD求逆元> <exGCD求逆元.cpp> <exGCD求逆元.tex>
+<exGCD求逆元> <exGCD求逆元.cpp>
 <快速幂求逆元> <快速幂求逆元.cpp> <快速幂求逆元.tex>
+<线性求$1-n$逆元> <线性逆元1.cpp>
+<线性求任意$n$个数逆元> <线性逆元2.cpp>
