@@ -51,7 +51,7 @@
         \color{black}
         \fontspec{MesloLGS NF}
     },
-	commentstyle = \color[RGB]{0,128,0}\bfseries, %代码注释的颜色
+	commentstyle = \color{gray}\bfseries, %代码注释的颜色
 	keywordstyle={                              % 设置关键字格式
         \color{black}
         \fontspec{MesloLGS NF Bold}
