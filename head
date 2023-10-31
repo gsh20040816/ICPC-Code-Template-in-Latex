@@ -11,20 +11,20 @@
 \usepackage{fancyhdr} % 自定义页眉页脚
 
 
-\setsansfont{Consolas} % 设置英文字体
-\setmonofont[Mapping={}]{Consolas} % 英文引号之类的正常显示，相当于设置英文字体
+\setsansfont{MesloLGS NF} % 设置英文字体
+\setmonofont[Mapping={}]{MesloLGS NF} % 英文引号之类的正常显示，相当于设置英文字体
 
 \linespread{1.2}
 
 \title{Template For ICPC}
-\author{ChenJr @ GDUT}
+\author{gsh @ TJU}
 \definecolor{dkgreen}{rgb}{0,0.6,0}
 \definecolor{gray}{rgb}{0.5,0.5,0.5}
 \definecolor{mauve}{rgb}{0.58,0,0.82}
 
 \pagestyle{fancy}
 
-\lhead{\CJKfamily{kai} GuangDong University of Technology} %以下分别为左中右的页眉和页脚
+\lhead{\CJKfamily{kai} Tongji University} %以下分别为左中右的页眉和页脚
 \chead{}
 
 \rhead{\CJKfamily{kai} 第 \thepage 页}
@@ -49,21 +49,21 @@
     numberstyle={                               % 设置行号格式
         \small
         \color{black}
-        \fontspec{Consolas}
+        \fontspec{MesloLGS NF}
     },
 	commentstyle = \color[RGB]{0,128,0}\bfseries, %代码注释的颜色
 	keywordstyle={                              % 设置关键字格式
         \color[RGB]{40,40,255}
-        \fontspec{Consolas Bold}
+        \fontspec{MesloLGS NF Bold}
         \bfseries
     },
 	stringstyle={                               % 设置字符串格式
         \color[RGB]{128,0,0}
-        \fontspec{Consolas}
+        \fontspec{MesloLGS NF}
         \bfseries
     },
 	basicstyle={                                % 设置代码格式
-        \fontspec{Consolas}
+        \fontspec{MesloLGS NF}
         \small\ttfamily
     },
 	emphstyle=\color[RGB]{112,64,160},          % 设置强调字格式
@@ -77,8 +77,8 @@
 }
 
 \begin{document}
-\title{ICPC Templates For Grooming}
-\author {ChenJr}
+\title{ICPC Templates}
+\author {gsh}
 \maketitle
 \tableofcontents
 \newpage
