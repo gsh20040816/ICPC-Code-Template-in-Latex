@@ -53,12 +53,12 @@
     },
 	commentstyle = \color[RGB]{0,128,0}\bfseries, %代码注释的颜色
 	keywordstyle={                              % 设置关键字格式
-        \color[RGB]{40,40,255}
+        \color{black}
         \fontspec{MesloLGS NF Bold}
         \bfseries
     },
 	stringstyle={                               % 设置字符串格式
-        \color[RGB]{128,0,0}
+        \color{gray}
         \fontspec{MesloLGS NF}
         \bfseries
     },
