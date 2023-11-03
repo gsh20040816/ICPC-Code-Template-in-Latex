@@ -1,5 +1,11 @@
 <线性筛素数> <线性筛素数.cpp>
 <exGCD> <exGCD.cpp> <exGCD.tex>
 <逆元> <> <> <逆元>
-<Miller_Rabin>
-<pollard_rho>
+<MillerRabin>
+<PollardRho>
+<exCRT>
+<exBSGS>
+<exLucas>
+<二次剩余>
+<高斯消元>
+<线性基>
